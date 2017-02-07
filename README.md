@@ -1,2 +1,1 @@
-# OOP
-Objective-Oriented Programming
+Repository for Object-Oriented Programming Class on 2nd Semester
